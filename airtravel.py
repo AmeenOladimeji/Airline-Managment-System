@@ -1,8 +1,3 @@
-#Bomi Oladimeji
-#3164447
-#CMPT-200-X04L
-#Assignment2
-#Collaborators: Lab instructor and https://stackoverflow.com/questions/73955513/python3-datetime-function-clarification-on-days-meaning
 from datetime import date, datetime, timedelta
 class AirLine:
     def __init__(self, name = 'Airalgorithmia', fleet = [], staff = [], trips = []):
